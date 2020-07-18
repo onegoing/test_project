@@ -1,6 +1,6 @@
 class TestLao:
     def test_g1(self):
-        assert 0
+        assert 1
 
     def test_g2(self):
         assert 1
